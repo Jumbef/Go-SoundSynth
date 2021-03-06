@@ -2,3 +2,4 @@
 /builds
 /*.code-workspace
 /go.sum
+/Go-SoundSynth.exe
