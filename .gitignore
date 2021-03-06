@@ -1,5 +1,5 @@
-*.code-workspace
-.vscode/
-.github/
-builds/
-go.sum
+/.github
+/.vscode
+/builds
+/*.code-workspace
+/go.sum
