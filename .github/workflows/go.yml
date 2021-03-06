@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Set up libopenal
-      run: sudo apt-get libopenal-dev
+      run: sudo apt-get install libopenal-dev
 
     - name: Set up Go
       uses: actions/setup-go@v2
